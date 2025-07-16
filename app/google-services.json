@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20226343363",
+    "project_id": "fir-authapp-af309",
+    "storage_bucket": "fir-authapp-af309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20226343363:android:0f543c507d9cd698a23d76",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoq4tAfrWStGdPwf8yK-eDvZmuG-vHAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
